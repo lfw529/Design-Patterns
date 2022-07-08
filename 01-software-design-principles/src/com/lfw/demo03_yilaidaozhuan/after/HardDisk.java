@@ -4,7 +4,7 @@ package com.lfw.demo03_yilaidaozhuan.after;
  * @version v1.0
  * @ClassName: HardDisk
  * @Description: 硬盘接口
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public interface HardDisk {
 

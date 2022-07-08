@@ -4,7 +4,7 @@ package com.lfw.demo03_yilaidaozhuan.before;
  * @version v1.0
  * @ClassName: XiJieHardDisk
  * @Description: 希捷硬盘
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class XiJieHardDisk {
 

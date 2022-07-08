@@ -3,7 +3,7 @@ package com.lfw.demo01_kaibiyuanze;
 /**
  * @version v1.0
  * @ClassName: HeimaSkin
- * @Description: 黑马程序员皮肤
+ * @Description: lfw皮肤
  * @Author: lfw
  */
 public class HeimaSkin extends AbstractSkin {

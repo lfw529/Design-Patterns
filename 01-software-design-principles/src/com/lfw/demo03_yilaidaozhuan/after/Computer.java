@@ -4,7 +4,7 @@ package com.lfw.demo03_yilaidaozhuan.after;
  * @version v1.0
  * @ClassName: Computer
  * @Description: TODO(一句话描述该类的功能)
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class Computer {
 
