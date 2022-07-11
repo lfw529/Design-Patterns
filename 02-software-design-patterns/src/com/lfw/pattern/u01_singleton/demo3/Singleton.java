@@ -6,7 +6,7 @@ package com.lfw.pattern.u01_singleton.demo3;
  * @Description:
  *
  *      懒汉式
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class Singleton {
 

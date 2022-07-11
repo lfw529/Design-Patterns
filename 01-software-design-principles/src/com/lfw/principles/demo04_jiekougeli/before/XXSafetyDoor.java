@@ -4,7 +4,7 @@ package com.lfw.principles.demo04_jiekougeli.before;
  * @version v1.0
  * @ClassName: HeimaSafetyDoor
  * @Description: 黑马品牌的安全门
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class XXSafetyDoor implements SafetyDoor {
     public void antiTheft() {

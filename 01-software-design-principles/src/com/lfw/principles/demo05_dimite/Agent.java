@@ -4,7 +4,7 @@ package com.lfw.principles.demo05_dimite;
  * @version v1.0
  * @ClassName: Agent
  * @Description: 经纪人类
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class Agent {
 

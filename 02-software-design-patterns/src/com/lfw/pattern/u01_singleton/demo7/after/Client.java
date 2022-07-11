@@ -9,7 +9,7 @@ import java.io.*;
  * @Description: 测试使用序列化破坏单例模式
  * <p>
  * 桌面路径： C:\Users\Think\Desktop
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class Client {
     public static void main(String[] args) throws Exception {

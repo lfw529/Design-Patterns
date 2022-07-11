@@ -4,7 +4,7 @@ package com.lfw.pattern.u01_singleton.demo5;
  * @version v1.0
  * @ClassName: Singleton
  * @Description: 静态内部类方式
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class Singleton {
 

@@ -4,7 +4,7 @@ package com.lfw.principles.demo05_dimite;
  * @version v1.0
  * @ClassName: Company
  * @Description: 媒体公司类
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class Company {
 

@@ -4,7 +4,7 @@ package com.lfw.pattern.u02_factory.simple_factory;
  * @version v1.0
  * @ClassName: SimpleCoffeeFactory
  * @Description: 简单咖啡工厂类，用来生产咖啡
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class SimpleCoffeeFactory {
 

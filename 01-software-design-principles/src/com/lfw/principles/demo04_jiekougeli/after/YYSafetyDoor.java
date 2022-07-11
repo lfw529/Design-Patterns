@@ -4,7 +4,7 @@ package com.lfw.principles.demo04_jiekougeli.after;
  * @version v1.0
  * @ClassName: ItcastSafetyDoor
  * @Description: 传智安全门
- * @Author: 黑马程序员
+ * @Author: lfw
  */
 public class YYSafetyDoor implements AntiTheft, Fireproof {
     public void antiTheft() {
