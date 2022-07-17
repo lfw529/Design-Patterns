@@ -32,7 +32,6 @@ public class Client {
         component.add(menu2);
         component.add(menu3);
 
-
         //打印菜单名称(如果有子菜单一块打印)
         component.print();
     }
