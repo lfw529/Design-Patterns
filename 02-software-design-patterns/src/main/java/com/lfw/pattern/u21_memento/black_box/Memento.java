@@ -7,4 +7,5 @@ package com.lfw.pattern.u21_memento.black_box;
  * @Author: 黑马程序员
  */
 public interface Memento {
+
 }
